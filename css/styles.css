@@ -1,0 +1,141 @@
+a {
+  color: teal;
+  font-weight: bold;
+  text-decoration: none;
+  margin: auto 10px;
+}
+
+a:hover {
+  color: lime;
+}
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: lightcyan;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 6rem;
+  color: cadetblue;
+  line-height: 1.5;
+  text-shadow: 1px 1px 1px grey;
+}
+
+h2 {
+  color: cadetblue;
+}
+h3 {
+  color: cadetblue;
+  font-size: 1.5rem;
+}
+
+hr {
+  border-top: dashed grey;
+  width: 33%;
+  size: 3px;
+  margin: 50px auto;
+}
+
+p {
+  font-size: 1.4rem;
+  line-height: 1.5;
+}
+
+.attributions {
+  font-size: 0.8rem;
+}
+
+.coding-img {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.copyright {
+  font-size: 1rem;
+}
+
+.intro {
+  width: 50%;
+  margin: 20px auto;
+}
+
+.languages-img {
+  width: 20%;
+  float: right;
+  margin-left: 50px;
+}
+
+.laptop {
+  width: 25%;
+  position: relative;
+  top: 40px;
+}
+
+.penguin1 {
+  height: 120px;
+  width: 120px;
+  position: absolute;
+  left: 500px;
+  top: 30px;
+}
+
+.penguin2 {
+  height: 120px;
+  width: 120px;
+  position: absolute;
+  right: 500px;
+  top: 30px;
+}
+
+.pro {
+  font-weight: bold;
+}
+
+.profile-img {
+  border-radius: 45%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom {
+  padding-top: 35px;
+  padding-bottom: 20px;
+  background-color: peachpuff;
+  margin: 0;
+}
+
+.bottom-container {
+  background-color: lightcyan;
+  padding-top: 30px;
+}
+
+.middle-container {
+  background-color: lightcyan;
+  padding-top: 50px;
+}
+
+.top-container {
+  height: 750px;
+  background-color: lightcyan;
+  position: relative;
+  text-align: center;
+  padding-top: 150px;
+}
+
+.contact-btn {
+  border: solid teal;
+  background-color: teal;
+  color: peachpuff;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 2rem;
+}
